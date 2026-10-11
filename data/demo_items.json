@@ -1,0 +1,10 @@
+{
+  "caseName":"The Rowan family home",
+  "updated":"2026-10-10",
+  "items":[
+    {"id":"EST-101","room":"Living room","name":"Signed studio pottery bowl","category":"Decor","condition":"good","marketClues":3,"estimatedLow":120,"estimatedHigh":380,"story":"Initials and maker mark visible","defaultSentiment":"unsure"},
+    {"id":"EST-102","room":"Living room","name":"Mass-market floor lamp","category":"Furniture","condition":"fair","marketClues":0,"estimatedLow":15,"estimatedHigh":45,"story":"No known family story","defaultSentiment":"release"},
+    {"id":"EST-103","room":"Bedroom","name":"Gold-tone jewelry box lot","category":"Jewelry","condition":"unknown","marketClues":2,"estimatedLow":80,"estimatedHigh":900,"story":"Contents not authenticated","defaultSentiment":"unsure"},
+    {"id":"EST-104","room":"Kitchen","name":"Vintage enamel cookware set","category":"Kitchen","condition":"good","marketClues":2,"estimatedLow":90,"estimatedHigh":240,"story":"Used for holiday meals","defaultSentiment":"keep"}
+  ]
+}
